@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="BookManagementUsingHibernate/src/main/java"/>
+	<classpathentry kind="src" path="ClassPractice/src"/>
+	<classpathentry excluding="student/" kind="src" path="Core Java Projects/Java Practice Projects"/>
+	<classpathentry kind="src" path="Core Java Projects/Java Practice Projects/student"/>
+	<classpathentry kind="src" path="CoreJavaRevise/src"/>
+	<classpathentry kind="src" path="FirstMaven/src/main/java"/>
+	<classpathentry kind="src" path="HibernateConfig/src/main/java"/>
+	<classpathentry kind="src" path="Interface/src"/>
+	<classpathentry kind="src" path="JDBC/src"/>
+	<classpathentry kind="src" path="Kiran Academy Practical/src/Abstraction/src"/>
+	<classpathentry kind="src" path="Kiran Academy Practical/src/classandObjects/src"/>
+	<classpathentry kind="src" path="Kiran Academy Practical/src/classandObjects2/src"/>
+	<classpathentry kind="src" path="Kiran Academy Practical/src/Constructor/src"/>
+	<classpathentry kind="src" path="Kiran Academy Practical/src/Encapsulation/src"/>
+	<classpathentry kind="src" path="Kiran Academy Practical/src/Exceptions/src"/>
+	<classpathentry kind="src" path="Kiran Academy Practical/src/Inheritence/src"/>
+	<classpathentry kind="src" path="Kiran Academy Practical/src/Interface/src"/>
+	<classpathentry kind="src" path="Kiran Academy Practical/src/Loops/src"/>
+	<classpathentry kind="src" path="Kiran Academy Practical/src/main/java"/>
+	<classpathentry kind="src" path="Kiran Academy Practical/src/Operators/src"/>
+	<classpathentry kind="src" path="Kiran Academy Practical/src/Patterns/src"/>
+	<classpathentry kind="src" path="Kiran Academy Practical/src/Polymorphism/src"/>
+	<classpathentry kind="src" path="Kiran Academy Practical/src/Practice/src"/>
+	<classpathentry kind="src" path="Kiran Academy Practical/src/second_constructor_home_work/src"/>
+	<classpathentry kind="src" path="Kiran Academy Practical/src/ThisandSuper/src"/>
+	<classpathentry kind="src" path="MiniProjects/src"/>
+	<classpathentry kind="src" path="SongManagement/src/main/java"/>
+	<classpathentry kind="output" path="BookManagementUsingHibernate/target/classes"/>
+</classpath>
